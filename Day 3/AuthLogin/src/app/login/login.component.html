@@ -1,0 +1,107 @@
+
+<style>
+    .typing-text-container {
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .static-line {
+      margin-bottom: 10px;
+      font-size: 2rem;
+    }
+    
+    .typing-wrapper {
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid #fff;
+      animation: typing 4s steps(30, end) infinite;
+    }
+    
+    .typing-wrapper::after {
+      content: '|';
+      animation: blink 0.7s infinite;
+    }
+    
+    @keyframes typing {
+      0% { width: 0; }
+      40% { width: 100%; }
+      60% { width: 100%; }
+      100% { width: 0; }
+    }
+    
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    
+    
+    </style>
+    
+    <div class="min-vh-100 d-flex justify-content-center align-items-center">
+        <div class="container" style="max-width: 800px; height: 400px;">
+          <div class="row h-100 shadow rounded-4 overflow-hidden">
+    
+            <div
+              class="col-md-6 d-flex justify-content-center align-items-center text-white text-center bg-primary"
+              
+            >
+            <div class="typing-text-container text-white text-center">
+                <div class="static-line">Welcome Back to</div>
+                <div class="typing-wrapper">Virtual Community Support</div>
+              </div>
+              
+            </div>
+      
+            <div class="col-md-6 d-flex justify-content-center align-items-center bg-white p-4">
+              <div class="w-100" style="max-width: 400px;">
+       
+                <div class="text-center mb-4">
+                    <img [src]="imageUrl" alt="Angular Logo" style="max-width: 150px;">
+                </div>
+                <form [formGroup]="form" (ngSubmit)="onSubmit()">
+                    <div class="mb-4">
+                      <h2 class="text-center text-primary">Login</h2>
+                    </div>
+                    
+                    
+                    <div class="mb-3">
+                      <input
+                        type="email"
+                        class="form-control bg-body-secondary"
+                        placeholder="Email"
+                        formControlName="emailAddress"
+                      />
+                    </div>
+                    <div class="mb-3">
+                      <input
+                        type="password"
+                        class="form-control bg-body-secondary"
+                        placeholder="Password"
+                        formControlName="password"
+                      />
+                    </div>
+                    <div class="mb-2 text-center"><a href="/" class="text-primary-subtle">Don't have account? Register first</a></div>
+                    
+                    <!-- <div class="mb-3">
+                      <select name="userType" id="userType" class="form-control bg-body-secondary" formControlName="userType">
+                          <option value="" >Select</option>
+                          <option value="user">User</option>
+                          <option value="admin">Admin</option>
+                      </select>
+                    </div> -->
+                    
+                    <div class="mt-4">
+                      <button [disabled]="form.invalid" class="btn btn-warning w-100">Login</button>
+                    </div>
+                  </form>
+
+              </div>
+            </div>
+      
+          </div>
+        </div>
+      </div>
