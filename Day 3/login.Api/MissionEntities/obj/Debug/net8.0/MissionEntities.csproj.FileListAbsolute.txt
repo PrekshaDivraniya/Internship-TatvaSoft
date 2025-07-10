@@ -1,0 +1,14 @@
+E:\source\repos\login.Api\MissionEntities\bin\Debug\net8.0\MissionEntities.deps.json
+E:\source\repos\login.Api\MissionEntities\bin\Debug\net8.0\MissionEntities.runtimeconfig.json
+E:\source\repos\login.Api\MissionEntities\bin\Debug\net8.0\MissionEntities.dll
+E:\source\repos\login.Api\MissionEntities\bin\Debug\net8.0\MissionEntities.pdb
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.csproj.AssemblyReference.cache
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.AssemblyInfoInputs.cache
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.AssemblyInfo.cs
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.csproj.CoreCompileInputs.cache
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.dll
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\refint\MissionEntities.dll
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.pdb
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\MissionEntities.genruntimeconfig.cache
+E:\source\repos\login.Api\MissionEntities\obj\Debug\net8.0\ref\MissionEntities.dll

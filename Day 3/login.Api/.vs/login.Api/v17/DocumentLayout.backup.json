@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\login.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2D539-E58A-4D3F-B95F-1CEBB52C6B1F}|login.Api\\login.Api.csproj|e:\\source\\repos\\login.api\\login.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B2D539-E58A-4D3F-B95F-1CEBB52C6B1F}|login.Api\\login.Api.csproj|solutionrelative:login.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2D539-E58A-4D3F-B95F-1CEBB52C6B1F}|login.Api\\login.Api.csproj|e:\\source\\repos\\login.api\\login.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B2D539-E58A-4D3F-B95F-1CEBB52C6B1F}|login.Api\\login.Api.csproj|solutionrelative:login.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2EAAAF-2C22-42C1-8772-E04707BDC0AE}|Sevices\\MissionServices.csproj|e:\\source\\repos\\login.api\\sevices\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2EAAAF-2C22-42C1-8772-E04707BDC0AE}|Sevices\\MissionServices.csproj|solutionrelative:sevices\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB2EAAAF-2C22-42C1-8772-E04707BDC0AE}|Sevices\\MissionServices.csproj|e:\\source\\repos\\login.api\\sevices\\interfaceservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB2EAAAF-2C22-42C1-8772-E04707BDC0AE}|Sevices\\MissionServices.csproj|solutionrelative:sevices\\interfaceservices\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E89E21-EED8-4A14-8728-BD54277E1F15}|Repository\\MissionRepositories.csproj|e:\\source\\repos\\login.api\\repository\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E89E21-EED8-4A14-8728-BD54277E1F15}|Repository\\MissionRepositories.csproj|solutionrelative:repository\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E89E21-EED8-4A14-8728-BD54277E1F15}|Repository\\MissionRepositories.csproj|e:\\source\\repos\\login.api\\repository\\interfacerepo\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E89E21-EED8-4A14-8728-BD54277E1F15}|Repository\\MissionRepositories.csproj|solutionrelative:repository\\interfacerepo\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|e:\\source\\repos\\login.api\\missionentities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|solutionrelative:missionentities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|e:\\source\\repos\\login.api\\missionentities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|solutionrelative:missionentities\\context\\missiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|e:\\source\\repos\\login.api\\missionentities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|solutionrelative:missionentities\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B2D539-E58A-4D3F-B95F-1CEBB52C6B1F}|login.Api\\login.Api.csproj|e:\\source\\repos\\login.api\\login.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6B2D539-E58A-4D3F-B95F-1CEBB52C6B1F}|login.Api\\login.Api.csproj|solutionrelative:login.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|e:\\source\\repos\\login.api\\missionentities\\missionentities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50083290-100D-4314-8F17-0B501B59F140}|MissionEntities\\MissionEntities.csproj|solutionrelative:missionentities\\missionentities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\Sevices\\InterfaceServices\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Sevices\\InterfaceServices\\ILoginService.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\Sevices\\InterfaceServices\\ILoginService.cs*",
+              "RelativeToolTip": "Sevices\\InterfaceServices\\ILoginService.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:43:44.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\Repository\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\LoginRepository.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\Repository\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\LoginRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:43:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\login.Api\\Program.cs",
+              "RelativeDocumentMoniker": "login.Api\\Program.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\login.Api\\Program.cs",
+              "RelativeToolTip": "login.Api\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T12:03:13.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\login.Api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "login.Api\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\login.Api\\Controllers\\LoginController.cs*",
+              "RelativeToolTip": "login.Api\\Controllers\\LoginController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:17:38.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\Repository\\InterfaceRepo\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\InterfaceRepo\\ILoginRepository.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\Repository\\InterfaceRepo\\ILoginRepository.cs",
+              "RelativeToolTip": "Repository\\InterfaceRepo\\ILoginRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:24:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\MissionEntities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MissionEntities\\Entities\\User.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\MissionEntities\\Entities\\User.cs",
+              "RelativeToolTip": "MissionEntities\\Entities\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:49:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MissionDbContext.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\MissionEntities\\context\\MissionDbContext.cs",
+              "RelativeDocumentMoniker": "MissionEntities\\context\\MissionDbContext.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\MissionEntities\\context\\MissionDbContext.cs",
+              "RelativeToolTip": "MissionEntities\\context\\MissionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T11:32:18.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\Sevices\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Sevices\\Services\\LoginService.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\Sevices\\Services\\LoginService.cs*",
+              "RelativeToolTip": "Sevices\\Services\\LoginService.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T14:25:37.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\login.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "login.Api\\appsettings.json",
+              "ToolTip": "E:\\source\\repos\\login.Api\\login.Api\\appsettings.json",
+              "RelativeToolTip": "login.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T13:25:13.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MissionEntities",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\MissionEntities\\MissionEntities.csproj",
+              "RelativeDocumentMoniker": "MissionEntities\\MissionEntities.csproj",
+              "ToolTip": "E:\\source\\repos\\login.Api\\MissionEntities\\MissionEntities.csproj",
+              "RelativeToolTip": "MissionEntities\\MissionEntities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T11:31:20.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Base.cs",
+              "DocumentMoniker": "E:\\source\\repos\\login.Api\\MissionEntities\\Entities\\Base.cs",
+              "RelativeDocumentMoniker": "MissionEntities\\Entities\\Base.cs",
+              "ToolTip": "E:\\source\\repos\\login.Api\\MissionEntities\\Entities\\Base.cs",
+              "RelativeToolTip": "MissionEntities\\Entities\\Base.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T18:58:04.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

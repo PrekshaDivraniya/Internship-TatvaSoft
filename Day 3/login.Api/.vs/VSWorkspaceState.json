@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\login.Api",
+    "\\login.Api\\Controllers",
+    "\\MissionEntities"
+  ],
+  "SelectedNode": "\\login.Api\\Controllers\\LoginController.cs",
+  "PreviewInSolutionExplorer": false
+}

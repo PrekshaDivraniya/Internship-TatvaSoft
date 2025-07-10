@@ -1,0 +1,17 @@
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionServices.deps.json
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionServices.dll
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionServices.pdb
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionEntities.dll
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionRepositories.dll
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionRepositories.pdb
+E:\source\repos\login.Api\Sevices\bin\Debug\net8.0\MissionEntities.pdb
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.csproj.AssemblyReference.cache
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.AssemblyInfoInputs.cache
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.AssemblyInfo.cs
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.csproj.CoreCompileInputs.cache
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionS.9EFA26F8.Up2Date
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.dll
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\refint\MissionServices.dll
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\MissionServices.pdb
+E:\source\repos\login.Api\Sevices\obj\Debug\net8.0\ref\MissionServices.dll
